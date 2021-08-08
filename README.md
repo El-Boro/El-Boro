@@ -1,0 +1,3 @@
+- 👋 Hola soy Esteban Boroni, "Boro" para los amigos.
+- 👀 Tengo un interés superficial por la programación y espero poder afianzarlo en estos años.
+- 🌱 Estudio en la carrera Ingeniería de Sistemas en la Universidad Nacional del Centro de la Provincia de Buenos Aires.
